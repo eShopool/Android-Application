@@ -22,11 +22,13 @@ Table of Contents
 ## 1 Sign up
 Welcome to use Group 10 eShopool services! Every time the user opens eShopool, the software will automatically display the splash page.
 
-Figure 4.1
+<p align=center>
+<img src="/images/1.png" height="320" />
+</p>
 
 By using the software for the first time, the user needs to sign up for a new account of the user’s own to use the various services eShopool offers. Click the Create an account button to switch to the user’s registration page.
 
-Figure 4.2
+<p align="center"><img src="/images/2.1.png" height="320"><span style="display:block;">&emsp;&emsp;&emsp;&emsp;</span><img src="/images/2.2.png" height="320"></p>
 
 In this page, the user needs to register a new account with the user’s mobile phone number:
 1. Firstly, the user enters a mobile number.
@@ -37,7 +39,9 @@ After confirming that all operations are completed, and all information the user
 ## 2 Sign In
 If the user doesn’t click the remember switch, the app will switch to this login page every time you open the app.
 
-Figure 4.3
+<p align=center>
+<img src="/images/3.png" height="320" />
+</p>
 
 First, the user enters a phone number at Phone Number text field and enters a password into the Password text field.
 The user can click the Remember Me button to remember the account and password to make login more convenient.
@@ -47,57 +51,84 @@ If the user forgets the password of the user, the user can click the Forget Pass
 ## 3 Homepage
 The homepage will show all types of available commodities at eShopool.
 
-Figure 4.4
+<p align=center>
+<img src="/images/4.png" height="320" />
+</p>
+
 ## 4 Navigation Menu
 eShopool provides 3 labels of commodities that cover most of the user needs such as necessity, electronic and cosmetic. If the user wants to search the above types of commodities, the user can just click the navigation menu and click the corresponding button. Then eShopool will refresh the current display page to meet the user’s needs.
 
-Figure 4.5
+<p align=center>
+<img src="/images/5.png" height="320" />
+</p>
+
 ## 5 Search Item
 eShopool provides a flexible search channel, which means the user can search whatever the user wants at wherever the user is. Each interface has a search icon at the title bar. The only thing the user needs to do is clicking the search button and entering keywords.
 
-Figure 4.6
+<p align=center>
+<img src="/images/6.png" height="320" />
+</p>
+
 Then wait a while and the page will generate the search results.
 
-Figure 4.7
+<p align=center>
+<img src="/images/7.png" height="320" />
+</p>
+
 ## 6 Publish Products
 eShopool also provides a flexible on-shelf channel that the user can publish unused items  wherever the user is. If the user has any unused items and wants to sell them then just click the add button and fill all required information. Finally, click Save button to publish the user’s products.
 
-Figure 4.8
+<p align=center>
+<img src="/images/8.png" height="320" />
+</p>
+
 ### 6.1 Upload Images
 Click the Select a photo on the page, the application will switch to the specific album and display images what the user has already added to the album. Meanwhile, the user can also click the Camera button to upload the new items to the album.
 Choose from Album: The user can upload the user’s existing images from the user’s system album.
 
-Figure 4.9
+<p align=center>
+<img src="/images/9.png" height="320" />
+</p>
+
 ## 7 Transcripts
 The user could click the Sales History or Purchase History button from the navigation menu to check the user’s transaction histories. All transactions will be arranged in chronological order.
 
-Figure 4.10
+<p align="center"><img src="/images/10.1.png" height="320"><span style="display:block;">&emsp;&emsp;&emsp;&emsp;</span><img src="/images/10.2.png" height="320"></p>
+
 ## 8 Profile Settings
 The user could click the Settings button from the navigation menu to update the user’s personal information. The services have been divided into 6 sections:
 ### 8.1 Change Photo
 The user is free to modify the avatar to the user’s favorite picture.
 
-Figure 4.11
+<p align="center"><img src="/images/11.1.png" height="320"><span style="display:block;">&emsp;&emsp;&emsp;&emsp;</span><img src="/images/11.2.png" height="320"></p>
+
 Select the Change Photo button then in the pop-up page, click the SELECT A PHOTO button, you can update user’s own avatar by Choose from Album or Camera. Once the selection is completed, the new avatar will be automatically saved and updated. Attention: The avatar the user upload must comply with the relevant laws and regulations of the country, otherwise, we will take bans on those who use the banned avatar.
 ### 8.2 Deposit
 Although the user cannot withdraw current balance from the eShopool, the user is free to top up RMB into user’s accounts.
 
-Figure 4.12
+<p align="center"><img src="/images/12.1.png" height="320"><span style="display:block;">&emsp;&emsp;&emsp;&emsp;</span><img src="/images/12.2.png" height="320"></p>
+
 ### 8.3 Change Password
 Users can choose the Change Password button then modify user’s passwords in the pop-up page.
 
-Figure 4.13
+<p align="center"><img src="/images/13.1.png" height="320"><span style="display:block;">&emsp;&emsp;&emsp;&emsp;</span><img src="/images/13.2.png" height="320"></p>
+
 The process of this part is the same as 4.2 Sign In.
 ### 8.4 Change Address
 The user could change user’s address after clicking Address button. eShopool will notify all people who have a transaction with them to check their new address.
 
-Figure 4.14
+<p align="center"><img src="/images/14.1.png" height="320"><span style="display:block;">&emsp;&emsp;&emsp;&emsp;</span><img src="/images/14.2.png" height="320"></p>
+
 ### 8.5 Delete Account
 If the user decides not to use the user’s account anymore, the user can choose to delete the user’s account in order to protect the user’s privacy.
 
-Figure 4.15
+<p align="center"><img src="/images/15.1.png" height="320"><span style="display:block;">&emsp;&emsp;&emsp;&emsp;</span><img src="/images/15.2.png" height="320"></p>
+
 Just click the Delete Account button, please read the contents in the dialogue carefully. If you still want to delete your account, please click OK button, your account will be completely removed from our servers. However, if you do not want to delete your account anymore, you can click Cancel button and cancel this operation. Attention: Delete your account is a one-time operation and cannot be withdrawn. However, the user’s balance will be kept, free to contact us if the user wants decided to withdraw money. Please consider it carefully.
 ### 8.6 Log Out
 If the user wants to log out the user’s account or switch to another account, the user can click Log Out button at Settings, the account will be logged out and switch to the login page.
 
-Figure 4.16
+<p align=center>
+<img src="/images/16.png" height="320" />
+</p>
+
