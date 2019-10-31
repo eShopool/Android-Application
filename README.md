@@ -21,7 +21,7 @@ Table of Contents
 # App Manual
 [![LICENSE](https://img.shields.io/hexpm/l/plug)](https://github.com/eShopool/Android-Application/blob/master/LICENSE)
 [![API](https://img.shields.io/badge/API-28%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=28)
-[![Size](https://img.shields.io/badge/Size-3.45 MB-important.svg)](https://fir.im/eShopool)
+[![Size](https://img.shields.io/badge/Size-3.45MB-important.svg)](https://fir.im/eShopool)
 
 ## 1 Sign up
 Welcome to use Group 10 eShopool services! Every time the user opens eShopool, the software will automatically display the splash page.
